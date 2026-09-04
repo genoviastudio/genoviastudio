@@ -34,16 +34,6 @@ I blend technology, creativity, and thoughtful design to turn ideas into meaning
 `Data Science` • `Artificial Intelligence` • `Machine Learning`
 `Digital Products` • `Creative Technology` • `Visual Design`
 
-### 📈 GitHub Journey
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genoviastudio\&show_icons=true\&hide_border=true\&title_color=b76e79\&icon_color=d8a7b1\&text_color=555555\&bg_color=fff8fa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genoviastudio\&layout=compact\&hide_border=true\&title_color=b76e79\&text_color=555555\&bg_color=fff8fa)
-
-</div>
-
 ### 🌐 Find Me Online
 
 <p>
